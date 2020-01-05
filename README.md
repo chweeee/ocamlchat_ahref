@@ -9,6 +9,8 @@ This application has a Command-line interface and can be started with the follow
 ```
 > **More information can be found via `-help` option.**
 
+----
+
 ### **Starting the server:**  
 Command: `./_build/default/main.exe -m server`.  
 This starts a TCP server on the local machine, listening to port 12345.
