@@ -10,6 +10,11 @@ This application has a Command-line interface and can be started with the follow
 > **More information can be found via `-help` option.**
 
 ----
+### Getting started
+1) Clone the repository: `git clone https://github.com/chweeee/ocamlchat_ahref.git`.
+2) Build the executable: `dune build main.exe`.
+
+----
 
 ### **Starting the server:**  
 Command: `./_build/default/main.exe -m server`.  
